@@ -1,4 +1,4 @@
-**LearnHub | Empowering Education**
+**LearnHub | Your Center for Skill Enhancement**
 
 
 LearnHub is an educational platform developed during the Hack It Out hackathon organized by the Indian Institute of Technology, Patna. This platform is designed to enhance the learning experience by providing students with a variety of educational resources, including video courses, blogs, and user-generated content.
