@@ -1,7 +1,9 @@
-LearnHub | Empowering Education
+**LearnHub | Empowering Education**
+
+
 LearnHub is an educational platform developed during the Hack It Out hackathon organized by the Indian Institute of Technology, Patna. This platform is designed to enhance the learning experience by providing students with a variety of educational resources, including video courses, blogs, and user-generated content.
 
-Table of Contents
+**Table of Contents**
 Introduction
 Features
 Demo
@@ -9,7 +11,7 @@ Technologies Used
 Introduction
 LearnHub is a one-stop platform for students looking to enhance their knowledge and skills. It provides the following key features:
 
-Features
+**Features**
 User Registration and Authentication: Users can create accounts and authenticate themselves to access the platform's features.
 
 Video Courses: Users can access a wide range of video courses on various subjects.
